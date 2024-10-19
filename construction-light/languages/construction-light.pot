@@ -1,0 +1,2989 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Construction Light\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-31 06:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: inc/widgets/widget-team.php:333
+msgid " Enter Instagram Url"
+msgstr ""
+
+#: inc/widgets/widget-team.php:325
+msgid " Enter Twitter Url"
+msgstr ""
+
+#: inc/woocommerce.php:410
+msgid "%"
+msgstr ""
+
+#: inc/welcome/welcome.php:127
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. You can start either by importing "
+"the ready made demo or get started by customizing it your self."
+msgstr ""
+
+#: inc/welcome/welcome.php:173
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:28
+#, php-format
+msgid "%s Demo"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-about.php:56
+msgid "&nbsp;CL : About Us"
+msgstr ""
+
+#. ID
+#: inc/widgets/widget_calltoaction.php:45
+msgid "&nbsp;CL : Call To Action"
+msgstr ""
+
+#. ID
+#: inc/widgets/widget-clients.php:44
+msgid "&nbsp;CL : Clients Brand Logo"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-counter.php:42
+msgid "&nbsp;CL : Counter"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-featured-service.php:37
+msgid "&nbsp;CL : Featured Service"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-blog.php:22
+msgid "&nbsp;CL : Our Blog Posts"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-service.php:39
+msgid "&nbsp;CL : Our Main Service"
+msgstr ""
+
+#. ID
+#: inc/widgets/widget-team.php:45
+msgid "&nbsp;CL : Our Team Member"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-portfolio.php:21
+msgid "&nbsp;CL : Portfolio"
+msgstr ""
+
+#. ID
+#: inc/widgets/widget-testimonial.php:42
+msgid "&nbsp;CL : Testimonial"
+msgstr ""
+
+#. ID
+#: inc/widgets/widget-video.php:42
+msgid "&nbsp;CL : Video Call To Action"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63 inc/template-tags.php:185
+msgid ", "
+msgstr ""
+
+#: patterns/hidden-404.php:12
+msgid "0"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:517
+msgid "100"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:518
+msgid "200"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:38
+msgid "25+ Demos"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:519
+msgid "300"
+msgstr ""
+
+#: patterns/hidden-404.php:12
+msgid "4"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:181
+msgid "4 Attractive Blog Layouts"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:520
+msgid "400"
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:37
+msgid "5 Demo Only"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:521
+msgid "500"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:522
+msgid "600"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:523
+msgid "700"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:524
+msgid "800"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:525
+msgid "900"
+msgstr ""
+
+#: patterns/call-to-action.php:39 inc/elementor/widgets/about.php:36
+#: inc/elementor/widgets/about.php:77
+msgid "About Us"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:97
+msgid "About Us Image :"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:188
+msgid "Achivement Award Number :"
+msgstr ""
+
+#: inc/widgets/widget-about.php:294
+msgid "Achivement Award Settings"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:197
+msgid "Achivement Award Settings :"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:178
+msgid "Achivement Award Title :"
+msgstr ""
+
+#: inc/widgets/widget-about.php:274
+msgid "Achivement Awards Settings"
+msgstr ""
+
+#: inc/welcome/welcome.php:164
+msgid "Action Failed. Something is Wrong."
+msgstr ""
+
+#: inc/welcome/sections/recommended_plugins.php:28
+msgid "Activate"
+msgstr ""
+
+#: inc/welcome/welcome.php:298
+msgid "Activate Demo Importer Plugin"
+msgstr ""
+
+#: inc/welcome/welcome.php:205
+msgid "Activating Demo Importer Plugin"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:212
+msgid "Adapts to any screen size and display beautifully."
+msgstr ""
+
+#: inc/widgets/widget-about.php:405
+msgid "Add Award Achivements"
+msgstr ""
+
+#: inc/widgets/widget-clients.php:269
+msgid "Add Client"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:314
+msgid "Add Counter"
+msgstr ""
+
+#: inc/widgets/widget-featured-service.php:255
+msgid "Add Featured Service Page"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:77
+msgid "Add New"
+msgstr ""
+
+#: inc/widgets/widget-service.php:292
+msgid "Add Service Page"
+msgstr ""
+
+#: inc/widgets/widget-team.php:358
+msgid "Add Team"
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:310
+msgid "Add Testimonial"
+msgstr ""
+
+#: functions.php:162 functions.php:172 functions.php:181 functions.php:192
+#: functions.php:202 functions.php:212 functions.php:222
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/custom-controller.php:212
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: patterns/pricing.php:152 inc/welcome/sections/free_vs_pro.php:46
+msgid "Advance"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:61
+#: inc/welcome/sections/free_vs_pro.php:75
+#: inc/welcome/sections/free_vs_pro.php:97
+#: inc/welcome/sections/free_vs_pro.php:132
+#: inc/welcome/sections/free_vs_pro.php:140
+#: inc/welcome/sections/free_vs_pro.php:154
+#: inc/welcome/sections/free_vs_pro.php:161
+msgid "Advanced"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:65
+msgid "Advanced Top Header Settings"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:227
+#: inc/elementor/widgets/testimonial.php:166
+#: inc/elementor/widgets/about.php:250
+msgid "Alignment"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:143
+msgid "All fields are dynamic"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:81
+msgid ""
+"All our premium themes are GDPR compliant, so you don’t have to stress any "
+"warning, suspension, or legal lawsuit. We have added necessary GDPR "
+"enhancements to make sure all our themes are GDPR complaints."
+msgstr ""
+
+#: section/section-recentwork.php:41 section/section-recentwork.php:139
+#: inc/widgets/widget-portfolio.php:58 inc/elementor/widgets/portfolio.php:187
+msgid "All Works"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:9
+msgid ""
+"and choose \"Your Latest Post\" and check the Enable Construction Light "
+"Front Page."
+msgstr ""
+
+#: inc/customizer/free-text.php:76
+msgid "And more..."
+msgstr ""
+
+#: patterns/about-us.php:45
+msgid "Annuites"
+msgstr ""
+
+#: patterns/quality-service.php:147
+msgid "Architectural Design"
+msgstr ""
+
+#: patterns/work-progress.php:113
+msgid "Architecture Studio"
+msgstr ""
+
+#: patterns/sidebar.php:54
+msgid "Archive"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/widget-about.php:364 inc/elementor/widgets/about.php:155
+msgid "Award Achivement Settings"
+msgstr ""
+
+#: 404.php:31
+msgid "Back To Home"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:84
+#: inc/elementor/widgets/testimonial.php:84
+#: inc/elementor/widgets/video-calltoaction.php:85
+#: inc/elementor/widgets/calltoaction.php:85
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/free-text.php:48
+msgid "Background Image"
+msgstr ""
+
+#: patterns/pricing.php:32 inc/welcome/sections/free_vs_pro.php:45
+#: inc/welcome/sections/free_vs_pro.php:60
+#: inc/welcome/sections/free_vs_pro.php:74
+#: inc/welcome/sections/free_vs_pro.php:96
+#: inc/welcome/sections/free_vs_pro.php:131
+#: inc/welcome/sections/free_vs_pro.php:139
+#: inc/welcome/sections/free_vs_pro.php:153
+#: inc/welcome/sections/free_vs_pro.php:160
+msgid "Basic"
+msgstr ""
+
+#: patterns/testimonial.php:54 patterns/testimonial.php:64
+#: patterns/testimonial.php:106
+msgid "Best Theme For FSE"
+msgstr ""
+
+#: inc/elementor/widgets/blog.php:36
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+#: template-blog.php:2
+msgid "Blog Template"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:182
+msgid ""
+"Blogs are a great way to attract new website visitors and built trust. "
+"Sparklstore Pro comes with 4 beautifully designed blog layout posts."
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:513
+msgid "Bold"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:189
+msgid "Both free and pro version are fully translation ready."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:129
+msgid "Breadcrumb Layout and Option"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:25
+#: inc/welcome/sections/free_vs_pro.php:244
+msgid "Buy Now ($59 only)"
+msgstr ""
+
+#: inc/elementor/widgets/calltoaction.php:36
+#: inc/elementor/widgets/calltoaction.php:77
+msgid "Call To Action"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:498
+#: inc/elementor/widgets/team.php:221 inc/elementor/widgets/service.php:202
+#: inc/elementor/widgets/portfolio.php:134 inc/elementor/widgets/blog.php:161
+#: inc/elementor/widgets/about.php:225 inc/elementor/widgets/client.php:160
+msgid "Capitalize"
+msgstr ""
+
+#: patterns/sidebar.php:18
+msgid "Categories"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:235
+#: inc/elementor/widgets/testimonial.php:174
+#: inc/elementor/widgets/about.php:258
+msgid "Center"
+msgstr ""
+
+#: patterns/team.php:50
+msgid "CEO | ARCHITECT"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:144
+msgid "Change icon and border color"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:146
+msgid "Change section text color"
+msgstr ""
+
+#: patterns/call-to-action-2.php:22
+msgid ""
+"Change the workflow for your WordPress site, control everything from Site "
+"editor without"
+msgstr ""
+
+#: patterns/about-us.php:37
+msgid ""
+"Change the workflow for your WordPress site, control everything from Site "
+"editor without using any extra plugins. Improved speed, web vitals score and "
+"SEO to get better positions"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:218
+msgid "Child Theme Support"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:219
+msgid ""
+"Child theme support makes it easy for you to transfer your settings and "
+"options when you update and change you themes."
+msgstr ""
+
+#: patterns/pricing.php:73 patterns/pricing.php:143 patterns/pricing.php:193
+msgid "CHOOSE PLAN"
+msgstr ""
+
+#: section/section-pricing.php:56
+msgid "Choose Plan"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:213
+msgid "Clear"
+msgstr ""
+
+#: inc/welcome/welcome.php:140
+msgid ""
+"Click below to install and active One Click Demo Importer Plugin, It's help "
+"you to import demo."
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:9
+msgid "Click on "
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:33
+#, php-format
+msgid ""
+"Click on the button below to install and activate the One Click Demo "
+"Importer Plugin. For more detailed documentation on how the demo importer "
+"works, click %s."
+msgstr ""
+
+#: inc/widgets/widget-clients.php:150 inc/widgets/widget-clients.php:219
+#: inc/elementor/widgets/client.php:36 inc/elementor/widgets/client.php:76
+msgid "Client"
+msgstr ""
+
+#: inc/elementor/widgets/client.php:132
+msgid "Client :"
+msgstr ""
+
+#: inc/widgets/widget-clients.php:128
+msgid "Client Settings"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:229 inc/mobile-menu/mobile-menu.php:7
+#: inc/mobile-menu/mobile-menu.php:54 inc/widgets/widget-service.php:217
+#: inc/widgets/widget-service.php:281 inc/widgets/widget-counter.php:238
+#: inc/widgets/widget-counter.php:303 inc/widgets/widget-about.php:330
+#: inc/widgets/widget-about.php:394 inc/widgets/widget-featured-service.php:185
+#: inc/widgets/widget-featured-service.php:246
+#: inc/widgets/widget-testimonial.php:233
+#: inc/widgets/widget-testimonial.php:299 inc/widgets/widget-clients.php:190
+#: inc/widgets/widget-clients.php:258 inc/widgets/widget-team.php:256
+#: inc/widgets/widget-team.php:347
+#: inc/customizer/group/class-control-group.php:234
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:148
+msgid "Color, Image, Video, Gradient Background Option"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:246 inc/elementor/widgets/service.php:177
+#: inc/elementor/widgets/testimonial.php:148
+#: inc/elementor/widgets/featured-service.php:121
+#: inc/elementor/widgets/featured-service.php:130
+#: inc/elementor/widgets/blog.php:187
+msgid "Columns"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/welcome/welcome.php:126
+msgid "Congratulations!"
+msgstr ""
+
+#. Name of the theme
+#: inc/core/block-patterns.php:20
+msgid "Construction Light"
+msgstr ""
+
+#. Name of the template
+#: template-pagebuilder.php:2
+msgid "Construction Light - Full Width"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:66
+msgid ""
+"Construction Light comes with an option for the top bar where you can add "
+"contact address, social icon, nav menu."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Construction Light is a user-friendly, feature-rich, intuitive, creative, "
+"powerful, impressive engaging and dynamic, fully customizable responsive "
+"Free Construction WordPress theme which is easy to use. Construction Light "
+"theme can be fully utilized to develop awesome and modern websites for "
+"construction business or related other business like contractors, builders, "
+"architectural firms, renovation and repair services, property dealers, "
+"building material trader, infrastructure companies, plumbing and roofing "
+"services businesses also other kinds of websites such as web agency, "
+"portfolio, photography, business and corporate websites. This theme includes "
+"excellent features like ( Banner Slider, Features Services, About Us, Call "
+"to Action Button (CTA), Main Services, Portfolio, Team Member, Testimonial, "
+"Client Logo and Video Call to Action with Button ), WooCommerce Block etc "
+"also includes 10+ elementor blocks which help to develop a clean and modern "
+"website. Construction Light WordPress theme is fully responsive, cross-"
+"browser compatible, translation ready, SEO friendly theme. If you face any "
+"problem related to our theme, you can refer to our theme documentation or "
+"contact our friendly support team. Check demo at https://demo."
+"sparklewpthemes.com/constructionlight/ and theme details at https:"
+"//sparklewpthemes.com/wordpress-themes/construction-wordpress-theme/ and get "
+"free support forum at https://sparklewpthemes.com/support/"
+msgstr ""
+
+#: inc/elementor/elementor-function.php:99 inc/widgets/siteorigin-panels.php:44
+msgid "Construction Light Widgets"
+msgstr ""
+
+#: patterns/pricing.php:51 patterns/pricing.php:121 patterns/pricing.php:171
+msgid "Construction Site Safety"
+msgstr ""
+
+#: inc/welcome/welcome.php:132
+msgid "ConstructionLIght Demo"
+msgstr ""
+
+#: header/header-three.php:123 header/header-one.php:108
+msgid "Contact Address"
+msgstr ""
+
+#: patterns/call-to-action-2.php:36 patterns/footer-default.php:33
+#: patterns/footer-default.php:71 patterns/footer-black.php:86
+#: patterns/footer-black.php:106 patterns/call-to-action-video.php:32
+#: inc/starter-content/init.php:149
+msgid "Contact Us"
+msgstr ""
+
+#: inc/themes-functions.php:592 inc/widgets/widget-about.php:150
+#: inc/elementor/widgets/about.php:400
+msgid "Contact Us :"
+msgstr ""
+
+#: inc/customizer/free-text.php:38 inc/elementor/widgets/portfolio.php:77
+#: inc/elementor/widgets/blog.php:77
+msgid "Content"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:111
+msgid "Content Excerpt"
+msgstr ""
+
+#: inc/widgets/widget-about.php:231
+msgid "Content Options"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-masonry.php:51 template-parts/content.php:48
+#: template-parts/content.php:74 template-parts/content-search.php:49
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/themes-functions.php:199
+msgid "Copyright  &copy; "
+msgstr ""
+
+#: patterns/hidden-404.php:20
+msgid "Could not be found. Maybe try a search?"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:36 inc/elementor/widgets/counter.php:76
+msgid "Counter"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:147
+msgid "Counter Setting :"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:195 inc/widgets/widget-counter.php:264
+msgid "Counter Settings"
+msgstr ""
+
+#: patterns/quality-service.php:32 patterns/quality-service.php:72
+msgid "Crane Service"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:16
+msgid ""
+"Create a new page and edit with Elementor. Drag and drop the elements in the "
+"Elementor to create your own design."
+msgstr ""
+
+#: inc/welcome/sections/support.php:13 inc/welcome/sections/support.php:15
+msgid "Create Support Tickets"
+msgstr ""
+
+#: patterns/team.php:19
+msgid "CREATIVE TEAM"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:534
+msgid "Custom"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:108
+msgid "Custom Elementor Block"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:549
+msgid "Custom Fonts"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:115
+msgid "Custom Widgets"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:790 inc/breadcrumbs/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer/free-text.php:75
+msgid "Default Content"
+msgstr ""
+
+#: patterns/quality-service.php:111
+msgid ""
+"Delectus ea, fugiat possimus iste facilis minima dolor consequatur vel "
+"voluptas assua eum beatae, autem architecto…"
+msgstr ""
+
+#: patterns/service.php:23
+msgid ""
+"Delectus ea, fugiat possimus iste facilis minima dolor consequatur vel "
+"voluptas assumenda eum beatae, autem architecto…"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:228
+msgid "Delete"
+msgstr ""
+
+#: patterns/pricing.php:105
+msgid "Delivery Management"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:26
+msgid "Demo Importer"
+msgstr ""
+
+#: patterns/team.php:46
+msgid "Denish Richh"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:166
+msgid ""
+"Design your each section by using seprator like cloud, trangle, curve etc."
+msgstr ""
+
+#: patterns/team.php:114
+msgid "DESIGNER | ARCHITECT"
+msgstr ""
+
+#: inc/customizer/sanitize.php:66 inc/customizer/free-text.php:25
+msgid "Disable"
+msgstr ""
+
+#: inc/welcome/welcome.php:153
+msgid "Dismiss"
+msgstr ""
+
+#: inc/template-functions.php:70
+msgid "Display Page Layout Options"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:106
+msgid "Display the posts from:"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:159
+msgid ""
+"Display WooCommerce Product in an attractive way display product image, time,"
+" product details and price."
+msgstr ""
+
+#: inc/welcome/sections/support.php:3
+msgid "Documentation"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:21
+msgid "Documentation Page"
+msgstr ""
+
+#: patterns/quality-service.php:131
+msgid ""
+"Doloremque voluptate fugiat vero at, quas ut maxime natus,  earum, vel, esse "
+"hic facilis cumque…"
+msgstr ""
+
+#: patterns/quality-service.php:151
+msgid ""
+"Doloremque voluptate fugiat vero at, quas ut maxime natus, earum, vel, esse "
+"hic facilis cumque…"
+msgstr ""
+
+#: patterns/quality-service.php:56
+msgid ""
+"Doloremque voluptate fugiat vero at, quas ut maxime natus, error earum, vel, "
+" hic facilis cumque…"
+msgstr ""
+
+#: patterns/service.php:41 patterns/service.php:59
+msgid ""
+"Doloremque voluptate fugiat vero at, quas ut maxime natus, error earum, vel, "
+"esse hic facilis cumque…"
+msgstr ""
+
+#: patterns/quality-service.php:36
+msgid ""
+"Doloremque voluptate fugiat vero at, quas ut maxime natus, error earum, vel, "
+"hic facilis cumque."
+msgstr ""
+
+#: patterns/quality-service.php:76
+msgid ""
+"Doloremque voluptate fugiat vero at, quas ut maxime natus, error earum, vel, "
+"hic facilis cumque..."
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:145
+msgid "Dynamic Color Option"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:43
+msgid "Easy Installation Process"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: patterns/about-us.php:44
+msgid "Education"
+msgstr ""
+
+#: patterns/service.php:37 patterns/quality-service.php:127
+msgid "Electrical Wiring"
+msgstr ""
+
+#: patterns/planning.php:49 patterns/planning.php:73 patterns/planning.php:97
+msgid ""
+"Elegant Template Kits compatible with WordPress Full Site Editing to help "
+"you create the website you always wanted."
+msgstr ""
+
+#: header/header-three.php:137 header/header-one.php:122
+msgid "Email Address"
+msgstr ""
+
+#: inc/themes-functions.php:584 inc/widgets/widget-about.php:144
+#: inc/elementor/widgets/about.php:389
+msgid "Email Us :"
+msgstr ""
+
+#: inc/customizer/sanitize.php:65 inc/customizer/free-text.php:21
+#: inc/customizer/free-text.php:24
+msgid "Enable"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:9
+msgid "Enable Front Page"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:21
+#: inc/customizer/product-type-settings.php:20
+msgid "Enable Section "
+msgstr ""
+
+#: patterns/work-progress.php:57
+msgid "Engnineering Works"
+msgstr ""
+
+#: inc/widgets/widget-about.php:256
+msgid "Enter About Us Email Address"
+msgstr ""
+
+#: inc/widgets/widget-about.php:247
+msgid "Enter About Us Phone Number"
+msgstr ""
+
+#: inc/widgets/widget-about.php:318 inc/widgets/widget-about.php:380
+msgid "Enter Award Number"
+msgstr ""
+
+#: inc/widgets/widget-about.php:306 inc/widgets/widget-about.php:373
+msgid "Enter Award Title"
+msgstr ""
+
+#: inc/widgets/widget-blog.php:134
+msgid "Enter Blog Section Subtitle"
+msgstr ""
+
+#: inc/widgets/widget-blog.php:126
+msgid "Enter Blog Section Title"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:165
+msgid "Enter Button One Link"
+msgstr ""
+
+#: inc/elementor/widgets/calltoaction.php:125
+msgid "Enter Button One Link :"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:157
+msgid "Enter Button One Text"
+msgstr ""
+
+#: inc/elementor/widgets/calltoaction.php:115
+msgid "Enter Button One Text :"
+msgstr ""
+
+#: inc/widgets/widget-service.php:205 inc/widgets/widget-service.php:269
+#: inc/widgets/widget-about.php:265
+msgid "Enter Button Text"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:157 inc/elementor/widgets/blog.php:118
+#: inc/elementor/widgets/about.php:121
+msgid "Enter Button Text :"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:181
+msgid "Enter Button Two Link"
+msgstr ""
+
+#: inc/elementor/widgets/calltoaction.php:152
+msgid "Enter Button Two Link :"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:173
+msgid "Enter Button Two Text"
+msgstr ""
+
+#: inc/elementor/widgets/calltoaction.php:142
+msgid "Enter Button Two Text :"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:149
+msgid "Enter Call To Action Section Subtitle"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:141
+msgid "Enter Call To Action Section Title"
+msgstr ""
+
+#: inc/widgets/widget-clients.php:178 inc/widgets/widget-clients.php:245
+msgid "Enter Client Link"
+msgstr ""
+
+#: inc/elementor/widgets/client.php:116
+msgid "Enter Client Link :"
+msgstr ""
+
+#: inc/widgets/widget-clients.php:119
+msgid "Enter Client Section Subitle"
+msgstr ""
+
+#: inc/widgets/widget-clients.php:112
+msgid "Enter Client Section Title"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:144
+msgid "Enter Contct Number :"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:226 inc/widgets/widget-counter.php:289
+msgid "Enter Counter Number"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:138
+msgid "Enter Counter Number :"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:164
+msgid "Enter Counter Section Subtitle"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:154
+msgid "Enter Counter Section Title"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:216 inc/widgets/widget-counter.php:281
+msgid "Enter Counter Title"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:128
+msgid "Enter Counter Title :"
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:219
+#: inc/widgets/widget-testimonial.php:286 inc/widgets/widget-team.php:215
+#: inc/widgets/widget-team.php:309
+msgid "Enter Designation"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:133 inc/elementor/widgets/testimonial.php:126
+msgid "Enter Designation :"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:134
+msgid "Enter Email Address :"
+msgstr ""
+
+#: inc/widgets/widget-team.php:224 inc/widgets/widget-team.php:317
+msgid "Enter Facebook URL"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:143
+msgid "Enter Facebook URL :"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:205 inc/widgets/widget-counter.php:273
+#: inc/widgets/widget-featured-service.php:172
+#: inc/widgets/widget-featured-service.php:233
+msgid "Enter Fontawesome Icon Class (Ex :- fas fa-truck-monster )"
+msgstr ""
+
+#: inc/widgets/widget-team.php:242
+msgid "Enter Instagram Url"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:177
+msgid "Enter Instagram URL :"
+msgstr ""
+
+#: inc/widgets/widget-portfolio.php:171
+msgid "Enter Portfolio Section Subtitle"
+msgstr ""
+
+#: inc/widgets/widget-portfolio.php:163
+msgid "Enter Portfolio Section Title"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:49
+msgid "Enter Section Sub Title"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:94 inc/elementor/widgets/counter.php:104
+#: inc/elementor/widgets/testimonial.php:103
+#: inc/elementor/widgets/video-calltoaction.php:105
+#: inc/elementor/widgets/calltoaction.php:105
+#: inc/elementor/widgets/portfolio.php:96 inc/elementor/widgets/blog.php:96
+msgid "Enter Section Subitle :"
+msgstr ""
+
+#: inc/widgets/widget-video.php:135
+msgid "Enter Section Subtitle"
+msgstr ""
+
+#: inc/elementor/widgets/client.php:94
+msgid "Enter Section Subtitle :"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:37 inc/widgets/widget-video.php:127
+msgid "Enter Section Title"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:84 inc/elementor/widgets/counter.php:94
+#: inc/elementor/widgets/testimonial.php:93
+#: inc/elementor/widgets/video-calltoaction.php:95
+#: inc/elementor/widgets/calltoaction.php:95
+#: inc/elementor/widgets/portfolio.php:86 inc/elementor/widgets/blog.php:86
+#: inc/elementor/widgets/client.php:84
+msgid "Enter Section Title :"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:95
+msgid "Enter Service Section Subitle :"
+msgstr ""
+
+#: inc/widgets/widget-service.php:149
+msgid "Enter Service Section Subtitle"
+msgstr ""
+
+#: inc/widgets/widget-service.php:141
+msgid "Enter Service Section Title"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:85
+msgid "Enter Service Section Title :"
+msgstr ""
+
+#: inc/widgets/widget-team.php:158
+msgid "Enter Team Section Subtitle"
+msgstr ""
+
+#: inc/widgets/widget-team.php:150
+msgid "Enter Team Section Title"
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:162
+msgid "Enter Testimonial Section Subtitle"
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:154
+msgid "Enter Testimonial Section Title"
+msgstr ""
+
+#: inc/widgets/widget-team.php:233
+msgid "Enter Twitter Url"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:160
+msgid "Enter Twitter URL :"
+msgstr ""
+
+#: inc/widgets/widget-video.php:143
+msgid "Enter Youtube Video Link"
+msgstr ""
+
+#: inc/elementor/widgets/video-calltoaction.php:115
+msgid "Enter Youtube Video Link :"
+msgstr ""
+
+#: patterns/about-us.php:54
+msgid "Entertainment"
+msgstr ""
+
+#: inc/welcome/welcome.php:208
+msgid "Error! Reload the page and try again."
+msgstr ""
+
+#: inc/widgets/widget-about.php:29
+msgid "Excerpt"
+msgstr ""
+
+#: section/section-pricing.php:15
+msgid "Explore"
+msgstr ""
+
+#: patterns/latest-news.php:31
+msgid "Explore More"
+msgstr ""
+
+#: patterns/about-us.php:62
+msgid "Explore Services"
+msgstr ""
+
+#: patterns/pricing.php:14
+msgid "Explorer"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:109
+msgid ""
+"Fan of Pagebuilder? No problem, with premium version you can create your "
+"website with Elementor. Elementor provides you with unlimited possibilities "
+"to create the website of your imagination."
+msgstr ""
+
+#: patterns/footer-default.php:37 patterns/footer-default.php:75
+#: patterns/footer-black.php:87 patterns/footer-black.php:107
+msgid "FAQ"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:233
+msgid "Fast and Friendly Support"
+msgstr ""
+
+#: section/section-producttype.php:67
+#: inc/customizer/product-type-settings.php:69
+msgid "Feature Product"
+msgstr ""
+
+#: inc/starter-content/init.php:8 inc/starter-content/init.php:9
+msgid "Featured Image Homepage"
+msgstr ""
+
+#: inc/elementor/widgets/featured-service.php:35
+#: inc/elementor/widgets/featured-service.php:75
+msgid "Featured Service"
+msgstr ""
+
+#: inc/elementor/widgets/featured-service.php:108
+msgid "Featured Service :"
+msgstr ""
+
+#: inc/widgets/widget-featured-service.php:212
+msgid "Featured Service Page"
+msgstr ""
+
+#: inc/widgets/widget-featured-service.php:150
+msgid "Featured Service Page "
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:29
+msgid "Features"
+msgstr ""
+
+#: patterns/planning-2.php:69 patterns/planning.php:45
+msgid "Financial Consulting"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:15
+msgid "Firstly install and activate \"Elementor Website Builder\" plugin from"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:196
+msgid ""
+"Follows best SEO practices so that your website always rank higher in Search "
+"Engines."
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:574
+msgid "Font Size (px)"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:559
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:530
+msgid "Font Type"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:554
+msgid "Font Weight"
+msgstr ""
+
+#: functions.php:220
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#: functions.php:190
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: functions.php:210
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: functions.php:200
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:21
+#, php-format
+msgid "For more detail visit our theme %s."
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:140
+msgid "For more settings,"
+msgstr ""
+
+#: inc/customizer/free-text.php:73
+msgid "For more styling and controls,"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:234
+msgid "For Premium theme, the user will get a reply in 10 hours or less."
+msgstr ""
+
+#: patterns/testimonial.php:47 patterns/testimonial.php:79
+#: patterns/testimonial.php:99
+msgid "Founder, CEO"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:256 inc/elementor/widgets/service.php:187
+#: inc/elementor/widgets/testimonial.php:158
+#: inc/elementor/widgets/featured-service.php:139
+#: inc/elementor/widgets/blog.php:197
+msgid "Four Column"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:142
+msgid "Four different layouts"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:147
+msgid "Four different types of Background"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:30
+msgid "Free"
+msgstr ""
+
+#: inc/welcome/sections/header.php:18
+msgid "Free Demo"
+msgstr ""
+
+#: inc/customizer/free-text.php:6
+msgid "Free Hand HTML"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFETIME"
+msgstr ""
+
+#: inc/welcome/welcome.php:27
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:6
+msgid "FROM CUSTOMIZER"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:13
+msgid "FROM ELEMENTOR"
+msgstr ""
+
+#: patterns/latest-news.php:20
+msgid "From Our Blog"
+msgstr ""
+
+#: inc/widgets/widget-about.php:30 inc/elementor/widgets/about.php:112
+msgid "Full Content"
+msgstr ""
+
+#: inc/template-functions.php:100
+msgid "Full width"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:80
+msgid "GDPR Compliance & Cookies Consent"
+msgstr ""
+
+#: inc/starter-content/init.php:159 inc/starter-content/init.php:168
+msgid "Get Quote"
+msgstr ""
+
+#: patterns/call-to-action-2.php:32 patterns/hero-section.php:24
+#: patterns/call-to-action.php:35 inc/welcome/welcome.php:148
+msgid "Get Started"
+msgstr ""
+
+#: inc/welcome/welcome.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:8
+msgid "Go to Appearance &gt; Customize"
+msgstr ""
+
+#: inc/welcome/welcome.php:206 inc/welcome/welcome.php:301
+msgid "Go to Demo Importer Page"
+msgstr ""
+
+#: inc/welcome/welcome.php:150
+msgid "Go to Setting Page"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:533
+msgid "Google"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:544
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:104
+msgid "Grid"
+msgstr ""
+
+#: patterns/about-us.php:53
+msgid "Healthcare"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:33
+msgid "here"
+msgstr ""
+
+#: inc/welcome/welcome.php:149
+#, php-format
+msgid ""
+"Here you will find all the necessary links and information on how to use %s."
+msgstr ""
+
+#: inc/elementor/widgets/about.php:165
+msgid "Hide"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:11
+msgid "Home Sections"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: patterns/service.php:55
+msgid "House Construction"
+msgstr ""
+
+#: patterns/planning-2.php:19 patterns/planning.php:19
+msgid "HOW CAN I HELP YOU"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://sparklewpthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://sparklewpthemes.com/wordpress-themes/construction-wordpress-theme/"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:146 inc/elementor/widgets/team.php:163
+#: inc/elementor/widgets/team.php:180
+#: inc/elementor/widgets/calltoaction.php:128
+#: inc/elementor/widgets/calltoaction.php:155
+#: inc/elementor/widgets/client.php:119
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:105
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:128 inc/widgets/widget-counter.php:139
+#: inc/widgets/widget-video.php:117 inc/widgets/widget-testimonial.php:141
+#: inc/customizer/group/class-control-group.php:218
+msgid "Image preview"
+msgstr ""
+
+#: inc/welcome/welcome.php:139
+msgid "Import Demo"
+msgstr ""
+
+#: patterns/pricing.php:23 patterns/quality-service.php:22
+msgid ""
+"In auctor ex id urna faucibus porttitor. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. In maximus ligula semper metus pellentesque "
+"mattis."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:87
+msgid "Included Maintenance Mode"
+msgstr ""
+
+#: patterns/about-us.php:52
+msgid "Industries"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:502
+msgid "Inherit"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:501
+msgid "Initial"
+msgstr ""
+
+#: patterns/hero-section.php:17
+msgid "Innovative Modern Design &amp; Works"
+msgstr ""
+
+#: inc/welcome/welcome.php:306
+msgid "Install Demo Importer Plugin"
+msgstr ""
+
+#: inc/welcome/sections/recommended_plugins.php:35
+msgid "Install Now"
+msgstr ""
+
+#: inc/welcome/sections/recommended_plugins.php:31
+msgid "Installed"
+msgstr ""
+
+#: inc/welcome/welcome.php:204
+msgid "Installing Demo Importer Plugin"
+msgstr ""
+
+#: patterns/pricing.php:55 patterns/pricing.php:125 patterns/pricing.php:175
+msgid "Interaction with Public Realm"
+msgstr ""
+
+#: patterns/service.php:19 patterns/work-progress.php:85
+msgid "Interior Design"
+msgstr ""
+
+#: patterns/planning.php:93
+msgid "Investment Plan"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:95
+msgid "Is Popular?"
+msgstr ""
+
+#: 404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:512
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:76
+msgid "Item #"
+msgstr ""
+
+#: patterns/team.php:78
+msgid "Jasmine Obama"
+msgstr ""
+
+#: patterns/team.php:110
+msgid "Jason Matt"
+msgstr ""
+
+#: patterns/testimonial.php:95
+msgid "Johan Deo"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:14
+msgid "Keep up to date"
+msgstr ""
+
+#: patterns/planning-2.php:54 patterns/planning-2.php:78
+#: patterns/planning-2.php:102 patterns/planning.php:54
+#: patterns/planning.php:78 patterns/planning.php:102
+msgid "Know More"
+msgstr ""
+
+#: section/section-producttype.php:65
+#: inc/customizer/product-type-settings.php:67
+msgid "Latest Product"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:84
+#: inc/elementor/widgets/about.php:279
+msgid "Layout"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:283
+msgid "Layout 1"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:284
+msgid "Layout 2"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:285
+msgid "Layout 3"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:110 inc/elementor/widgets/service.php:112
+msgid "Layout One"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:111 inc/elementor/widgets/service.php:113
+msgid "Layout Two"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:231
+#: inc/elementor/widgets/testimonial.php:170
+#: inc/elementor/widgets/about.php:254
+msgid "Left"
+msgstr ""
+
+#: inc/template-functions.php:88
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:170
+msgid "Left Widget Sidebar Area"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:582
+msgid "Letter Spacing (px)"
+msgstr ""
+
+#: patterns/footer-black.php:13
+msgid "LET’S CONNECT"
+msgstr ""
+
+#: patterns/pricing.php:113
+msgid "Lifting and Hoisting"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:578
+msgid "Line height (px)"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:507
+msgid "Line-through"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:268
+msgid "Link"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: patterns/footer-black.php:17
+msgid "Lorem ipsum dolor sit amet, consectetur"
+msgstr ""
+
+#: patterns/footer-default.php:15 patterns/footer-black.php:25
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce molestie orci "
+"nec bibendum iaculis."
+msgstr ""
+
+#: patterns/call-to-action.php:25
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec"
+msgstr ""
+
+#: patterns/planning-2.php:49 patterns/planning-2.php:73
+#: patterns/planning-2.php:97 patterns/testimonial.php:53
+#: patterns/testimonial.php:63 patterns/testimonial.php:105
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo. Vestibulum sodales "
+"sapien id dolor aliquam volutpat. Suspendisse fermentum lorem."
+msgstr ""
+
+#: patterns/work-progress.php:61 patterns/work-progress.php:117
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industry standard dummy text ever since the 1500..."
+msgstr ""
+
+#: patterns/work-progress.php:89
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum has been the industrys standard dummy text ever since the 1500..."
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:500
+msgid "Lowercase"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:220 inc/elementor/widgets/service.php:201
+#: inc/elementor/widgets/portfolio.php:133 inc/elementor/widgets/blog.php:160
+#: inc/elementor/widgets/about.php:224 inc/elementor/widgets/client.php:159
+msgid "lowercase"
+msgstr ""
+
+#: header/header-two.php:85 header/header-three.php:57
+#: header/header-one.php:144
+msgid "Main Menu"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:203
+msgid "Major Browser Compatible"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:175
+msgid "Manage Counter Settings"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:3
+msgid "Manual Setup"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:149
+msgid "Margin & Padding Option (Advance Settings)"
+msgstr ""
+
+#: patterns/planning-2.php:93 patterns/planning.php:69
+msgid "Marketing Strategy"
+msgstr ""
+
+#: patterns/call-to-action.php:20
+msgid "Masterful Architecture"
+msgstr ""
+
+#: patterns/team.php:30
+msgid "Meet Our Team Members"
+msgstr ""
+
+#: inc/mobile-menu/init.php:52
+msgid "Menu"
+msgstr ""
+
+#: functions.php:179
+msgid "Menu Sidebar"
+msgstr ""
+
+#: patterns/pricing.php:67 patterns/pricing.php:137 patterns/pricing.php:187
+msgid "Milestone / High-Level Schedule"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/mobile-menu/mobile-menu.php:24
+msgid "Mobile"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:789 inc/breadcrumbs/breadcrumbs.php:845
+#: inc/breadcrumbs/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:113
+msgid "Monthly/Yearly"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:206 inc/widgets/widget-counter.php:274
+#: inc/widgets/widget-featured-service.php:173
+#: inc/widgets/widget-featured-service.php:234
+msgid "More Icon Class"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:51
+msgid "Multiple Header Layouts and Settings"
+msgstr ""
+
+#: inc/woocommerce.php:108 section/section-producttype.php:10
+msgid "New"
+msgstr ""
+
+#: inc/woocommerce.php:318
+msgid "New!"
+msgstr ""
+
+#: index.php:78 archive.php:73 search.php:59 template-blog.php:98
+msgid "Next"
+msgstr ""
+
+#: single.php:56
+msgid "Next article"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:24
+#: inc/customizer/pricing-settings.php:98
+#: inc/customizer/product-type-settings.php:23
+#: inc/welcome/sections/free_vs_pro.php:167
+msgid "No"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:162
+#, php-format
+msgid "no comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:183
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:116
+msgid "No of Columns"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:132
+msgid "No of Products"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:497
+#: inc/customizer/group/class-control-group.php:505
+#: inc/elementor/widgets/team.php:218 inc/elementor/widgets/service.php:199
+#: inc/elementor/widgets/portfolio.php:131 inc/elementor/widgets/blog.php:158
+#: inc/elementor/widgets/about.php:222 inc/elementor/widgets/client.php:157
+msgid "None"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:511
+msgid "Normal"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:11
+#, php-format
+msgid "Now go back to %s and manage the sections."
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:17
+msgid ""
+"Now go to Appearance &gt; Customize &gt; Homepage Settings and choose \"A "
+"static page\" for \"Your latest posts\" and select the created page for "
+"\"Home Page\" option."
+msgstr ""
+
+#: inc/elementor/widgets/blog.php:128
+msgid "Number Of Blog Post To Display :"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:514
+msgid "Oblique"
+msgstr ""
+
+#: section/section-producttype.php:68
+#: inc/customizer/product-type-settings.php:70
+msgid "On Sale Product"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:35
+msgid "One Click Demo Import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr ""
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:32
+msgid "Or you can get started by importing the demo with just one click."
+msgstr ""
+
+#: patterns/quality-service.php:18
+msgid "Our Best Quality Services"
+msgstr ""
+
+#: patterns/testimonial.php:29
+msgid "Our Customer Voice"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:88
+msgid ""
+"Our premium themes allow you to create ‘under construction‘ and ‘coming "
+"soon‘ page in the simplest way and easily customize the design as per your "
+"need."
+msgstr ""
+
+#: inc/elementor/widgets/service.php:77
+msgid "Our Servcie"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:36
+msgid "Our Service"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:145
+msgid "Our Service :"
+msgstr ""
+
+#: patterns/footer-black.php:33
+msgid "OUR SUCCESS GALLERY"
+msgstr ""
+
+#: patterns/footer-default.php:99
+msgid "Our Success Gallery"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:174
+msgid "Our Team Member Area"
+msgstr ""
+
+#: inc/widgets/widget-team.php:168
+msgid "Our Team Member Settings"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:506
+msgid "Overline"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:83
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: patterns/footer-default.php:23 patterns/footer-black.php:79
+msgid "Pages"
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content.php:59
+#: template-parts/content.php:85
+msgid "Pages:"
+msgstr ""
+
+#: patterns/about-us.php:2
+msgctxt "Pattern title"
+msgid "About Us"
+msgstr ""
+
+#: patterns/call-to-action.php:2
+msgctxt "Pattern title"
+msgid "Call To Action"
+msgstr ""
+
+#: patterns/call-to-action-2.php:2
+msgctxt "Pattern title"
+msgid "Call To Action #2"
+msgstr ""
+
+#: patterns/contact.php:2
+msgctxt "Pattern title"
+msgid "Contact"
+msgstr ""
+
+#: patterns/counter.php:2
+msgctxt "Pattern title"
+msgid "Counter"
+msgstr ""
+
+#: patterns/footer-default.php:2
+msgctxt "Pattern title"
+msgid "Default Footer"
+msgstr ""
+
+#: patterns/footer-black.php:2
+msgctxt "Pattern title"
+msgid "Footer Black"
+msgstr ""
+
+#: patterns/hero-section.php:2
+msgctxt "Pattern title"
+msgid "Hero Section"
+msgstr ""
+
+#: patterns/hidden-404.php:2
+msgctxt "Pattern title"
+msgid "Hidden 404"
+msgstr ""
+
+#: patterns/home-page.php:2
+msgctxt "Pattern title"
+msgid "Home Page"
+msgstr ""
+
+#: patterns/latest-news.php:2
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/planning.php:2
+msgctxt "Pattern title"
+msgid "Planning"
+msgstr ""
+
+#: patterns/planning-2.php:2
+msgctxt "Pattern title"
+msgid "Planning #2"
+msgstr ""
+
+#: patterns/portfolio.php:2
+msgctxt "Pattern title"
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/pricing.php:3
+msgctxt "Pattern title"
+msgid "Pricing"
+msgstr ""
+
+#: patterns/sidebar.php:2
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/quality-service.php:2
+msgctxt "Pattern title"
+msgid "Quality Service"
+msgstr ""
+
+#: patterns/section-title.php:2
+msgctxt "Pattern title"
+msgid "Section Title"
+msgstr ""
+
+#: patterns/section-title-two.php:2
+msgctxt "Pattern title"
+msgid "Section Title Style Two"
+msgstr ""
+
+#: patterns/service.php:3
+msgctxt "Pattern title"
+msgid "Serivce"
+msgstr ""
+
+#: patterns/service-with-logo.php:3
+msgctxt "Pattern title"
+msgid "Serivce With Icon"
+msgstr ""
+
+#: patterns/service-three.php:2
+msgctxt "Pattern title"
+msgid "Services Style Three"
+msgstr ""
+
+#: patterns/service-two.php:2
+msgctxt "Pattern title"
+msgid "Services Style Two"
+msgstr ""
+
+#: patterns/slider.php:2
+msgctxt "Pattern title"
+msgid "Slider"
+msgstr ""
+
+#: patterns/team.php:2
+msgctxt "Pattern title"
+msgid "Team Member"
+msgstr ""
+
+#: patterns/testimonial.php:2
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/call-to-action-video.php:2
+msgctxt "Pattern title"
+msgid "Video Call To Action"
+msgstr ""
+
+#: patterns/work-progress.php:2
+msgctxt "Pattern title"
+msgid "Work Progress"
+msgstr ""
+
+#: header/header-three.php:105 header/header-one.php:90
+msgid "Phone Number"
+msgstr ""
+
+#: inc/welcome/sections/recommended_plugins.php:7
+msgid ""
+"Please install these free plugins. These plugins are complementary that adds "
+"more features to the theme."
+msgstr ""
+
+#: inc/welcome/welcome.php:285
+#, php-format
+msgid ""
+"Please leave us a %s rating if you like our theme . A huge thank you from "
+"SparkleThemes in advance!"
+msgstr ""
+
+#: section/section-pricing.php:42 patterns/pricing.php:82
+#: patterns/pricing.php:86
+msgid "Popular"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:36
+msgid "Portfolio"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:101
+msgid "PreLoader Option"
+msgstr ""
+
+#: inc/welcome/sections/header.php:19
+msgid "Premium Demo"
+msgstr ""
+
+#: index.php:77 archive.php:72 search.php:58 template-blog.php:97
+msgid "Prev"
+msgstr ""
+
+#: single.php:53
+msgid "Previous article"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:89
+msgid "Price"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:6
+msgid "Pricing"
+msgstr ""
+
+#: patterns/pricing.php:19
+msgid "Pricing Plan"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:73
+msgid "Pricing Setting"
+msgstr ""
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr ""
+
+#: patterns/footer-default.php:45 patterns/footer-default.php:83
+#: patterns/footer-black.php:89 patterns/footer-black.php:109
+msgid "Privacy & Policy"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:31
+msgid "Pro"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:6
+msgid "Product Type (Tab)"
+msgstr ""
+
+#: patterns/planning-2.php:30 patterns/planning.php:30
+msgid "Professional Business Planning"
+msgstr ""
+
+#: patterns/pricing.php:63 patterns/pricing.php:117 patterns/pricing.php:133
+#: patterns/pricing.php:183
+msgid "Project or Work Summary"
+msgstr ""
+
+#: inc/welcome/sections/support.php:9
+msgid "Read Full Documentation"
+msgstr ""
+
+#: section/section-service.php:185 patterns/quality-service.php:40
+#: patterns/quality-service.php:60 patterns/quality-service.php:80
+#: patterns/quality-service.php:115 patterns/quality-service.php:135
+#: patterns/quality-service.php:155
+msgid "Read More"
+msgstr ""
+
+#. Theme Name
+#: inc/welcome/sections/support.php:7
+#, php-format
+msgid ""
+"Read our theme documentation. our documentation contains all the necessary "
+"information required to set up the %s theme with clean screenshout."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: patterns/call-to-action-video.php:21
+msgid "Ready To Work with Our Company?"
+msgstr ""
+
+#: patterns/latest-news.php:25
+msgid "Recent News"
+msgstr ""
+
+#: patterns/sidebar.php:36
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:15
+msgid "Recommended Plugin page."
+msgstr ""
+
+#: inc/welcome/welcome.php:25 inc/welcome/sections/recommended_plugins.php:6
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:189 inc/widgets/widget-service.php:212
+#: inc/widgets/widget-service.php:277 inc/widgets/widget-counter.php:234
+#: inc/widgets/widget-counter.php:298 inc/widgets/widget-about.php:326
+#: inc/widgets/widget-about.php:389 inc/widgets/widget-featured-service.php:181
+#: inc/widgets/widget-featured-service.php:242
+#: inc/widgets/widget-testimonial.php:229
+#: inc/widgets/widget-testimonial.php:295 inc/widgets/widget-clients.php:186
+#: inc/widgets/widget-clients.php:254 inc/widgets/widget-team.php:252
+#: inc/widgets/widget-team.php:343
+msgid "Remove"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:122
+msgid "Remove Footer Credit Text"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:135 inc/widgets/widget-counter.php:146
+#: inc/widgets/widget-testimonial.php:148 inc/widgets/widget-clients.php:171
+#: inc/customizer/group/class-control-group.php:221
+msgid "Remove Image"
+msgstr ""
+
+#: patterns/team.php:82
+msgid "RESEARCHER | ARCHITECT"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:211
+msgid "Responsive - Mobile Friendly"
+msgstr ""
+
+#: patterns/about-us.php:43
+msgid "Retail"
+msgstr ""
+
+#: patterns/planning-2.php:45
+msgid "Retirement &amp; Income"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:239
+#: inc/elementor/widgets/testimonial.php:178
+#: inc/elementor/widgets/about.php:262
+msgid "Right"
+msgstr ""
+
+#: inc/template-functions.php:94
+msgid "Right (Default)"
+msgstr ""
+
+#: functions.php:160
+msgid "Right Widget Sidebar Area"
+msgstr ""
+
+#: patterns/quality-service.php:107
+msgid "Road Construction"
+msgstr ""
+
+#: inc/woocommerce.php:113 inc/woocommerce.php:323
+msgid "Sale!"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:195
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:72
+msgid "Search Options"
+msgstr ""
+
+#: inc/themes-functions.php:297
+msgid "Search Results for:"
+msgstr ""
+
+#. %s: search query.
+#: search.php:38
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: patterns/section-title-two.php:28 patterns/section-title.php:24
+msgid "Section Main Title Here"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:165
+msgid "Section Seprator"
+msgstr ""
+
+#: patterns/section-title-two.php:17 patterns/section-title.php:19
+msgid "Section Sub Title Here"
+msgstr ""
+
+#: inc/widgets/widget-about.php:211
+msgid "Select AboutUs Page"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:117
+#: inc/widgets/widget_calltoaction.php:133
+#: inc/widgets/widget_calltoaction.php:133 inc/widgets/widget-counter.php:128
+#: inc/widgets/widget-counter.php:144 inc/widgets/widget-counter.php:144
+#: inc/widgets/widget-video.php:120 inc/widgets/widget-video.php:120
+#: inc/widgets/widget-testimonial.php:130
+#: inc/widgets/widget-testimonial.php:146
+#: inc/widgets/widget-testimonial.php:146 inc/widgets/widget-clients.php:169
+msgid "Select Background Image"
+msgstr ""
+
+#: inc/widgets/widget-blog.php:141 inc/widgets/widget-portfolio.php:178
+msgid "Select Categories you want to show:"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:63
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/widget-clients.php:237
+msgid "Select Client Image"
+msgstr ""
+
+#: inc/elementor/widgets/service.php:135 inc/elementor/widgets/counter.php:117
+#: inc/elementor/widgets/featured-service.php:98
+msgid "Select Icon :"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:190
+#: inc/customizer/group/class-control-group.php:220
+#: inc/customizer/group/class-control-group.php:220
+msgid "Select Image"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:106 inc/elementor/widgets/blog.php:106
+msgid "Select Multiple Category :"
+msgstr ""
+
+#: inc/widgets/widget-service.php:195 inc/widgets/widget-service.php:259
+#: inc/widgets/widget-about.php:221 inc/widgets/widget-featured-service.php:164
+#: inc/widgets/widget-featured-service.php:225
+#: inc/widgets/widget-testimonial.php:209
+#: inc/widgets/widget-testimonial.php:276 inc/widgets/widget-team.php:205
+#: inc/widgets/widget-team.php:299
+msgid "Select Page"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:122 inc/elementor/widgets/service.php:124
+#: inc/elementor/widgets/testimonial.php:115
+#: inc/elementor/widgets/featured-service.php:87
+#: inc/elementor/widgets/about.php:86
+msgid "Select Page :"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:225
+msgid "SEO Friendly"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:226
+msgid ""
+"SEO refers to search engine optimization, or the process of optimizing a "
+"website so that people can easily find it via search engines like Google."
+msgstr ""
+
+#: inc/elementor/widgets/service.php:105
+msgid "Service Layout :"
+msgstr ""
+
+#: inc/widgets/widget-service.php:246
+msgid "Service Page"
+msgstr ""
+
+#: inc/widgets/widget-service.php:181
+msgid "Service Page "
+msgstr ""
+
+#: inc/widgets/widget-service.php:158
+msgid "Service Page Settings"
+msgstr ""
+
+#: patterns/footer-default.php:29 patterns/footer-default.php:67
+#: patterns/footer-black.php:85 patterns/footer-black.php:105
+msgid "Services"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:164
+msgid "Show"
+msgstr ""
+
+#: inc/elementor/widgets/about.php:162
+msgid "Show Achivement Award Counter"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:137
+msgid "Sidebar Layout Options"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:253 inc/elementor/widgets/service.php:184
+#: inc/elementor/widgets/testimonial.php:155 inc/elementor/widgets/blog.php:194
+msgid "Single Column"
+msgstr ""
+
+#: inc/elementor/widgets/blog.php:135
+msgid "Six Blog Posts"
+msgstr ""
+
+#: header.php:27
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:105
+msgid "Slider"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:94
+msgid "Slider Type and Layout Options"
+msgstr ""
+
+#: patterns/work-progress.php:30
+msgid "Smart planning of the work process"
+msgstr ""
+
+#: patterns/sidebar.php:92
+msgid "Social Links"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Author of the theme
+#: inc/themes-functions.php:201
+msgid "Sparkle Themes"
+msgstr ""
+
+#: inc/welcome/sections/support.php:14
+msgid ""
+"Still, having problems after reading all the documentation? No Problem!! "
+"Please create a support ticket. Our dedicated support team will help you to "
+"solve your problem."
+msgstr ""
+
+#: patterns/about-us.php:46
+msgid "Stock Trading"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:206 inc/elementor/widgets/service.php:168
+#: inc/elementor/widgets/portfolio.php:119 inc/elementor/widgets/blog.php:146
+#: inc/elementor/widgets/about.php:210 inc/elementor/widgets/client.php:145
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:86
+msgid "Style One"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:88
+msgid "Style Three"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:87
+msgid "Style Two"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:49
+msgid "Sub Title"
+msgstr ""
+
+#: patterns/footer-default.php:53 patterns/footer-default.php:91
+#: patterns/footer-black.php:91 patterns/footer-black.php:111
+#: inc/welcome/welcome.php:26
+msgid "Support"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:532
+msgid "System"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:539
+msgid "System Fonts"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: patterns/sidebar.php:74
+msgid "Tags"
+msgstr ""
+
+#: patterns/footer-default.php:41 patterns/footer-default.php:79
+#: patterns/footer-black.php:88 patterns/footer-black.php:108
+#: inc/elementor/widgets/team.php:36 inc/elementor/widgets/team.php:76
+msgid "Team"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:193
+msgid "Team :"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:103
+msgid "Team Layout"
+msgstr ""
+
+#: inc/widgets/widget-team.php:286
+msgid "Team Page"
+msgstr ""
+
+#: inc/widgets/widget-team.php:191
+msgid "Team Page "
+msgstr ""
+
+#: patterns/about-us.php:55
+msgid "Technology"
+msgstr ""
+
+#: patterns/pricing.php:59 patterns/pricing.php:129 patterns/pricing.php:179
+msgid "Temporary Protection"
+msgstr ""
+
+#: patterns/footer-default.php:49 patterns/footer-default.php:87
+#: patterns/footer-black.php:90 patterns/footer-black.php:110
+msgid "Term & Conditions"
+msgstr ""
+
+#: patterns/footer-default.php:61 patterns/footer-black.php:99
+msgid "Terms"
+msgstr ""
+
+#: inc/elementor/widgets/testimonial.php:36
+#: inc/elementor/widgets/testimonial.php:76
+msgid "Testimonial"
+msgstr ""
+
+#: inc/elementor/widgets/testimonial.php:135
+msgid "Testimonial :"
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:263
+msgid "Testimonial Page"
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:195
+msgid "Testimonial Page "
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:172
+msgid "Testimonial Settings"
+msgstr ""
+
+#: patterns/testimonial.php:18
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:564
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:569
+msgid "Text Transform"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:59
+msgid ""
+"The free version has a basic color option but the premium version has "
+"advanced color options that allow customizing the color theme primary colors."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:73
+msgid ""
+"The free version has a simple search option but the premium version has "
+"advanced search options ( with category, Ajax ) that allow to get better "
+"result."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:95
+msgid ""
+"The free version has a simple slider option but the premium version has "
+"advanced slider type and layout options that allow to get better website "
+"looks."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:102
+msgid ""
+"The loading screen that appears until the website is fully loaded. The "
+"premium version has the option to choose from 16 preloaders or add your own "
+"preloader image as well."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:123
+msgid ""
+"The premium version easily allows to remove or change the footer credit text."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:52
+msgid ""
+"The premium version gives the option to choose from 6 header layout. "
+"Additionally, it allows changing the header background color, text color, "
+"header height and more."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:175
+msgid ""
+"The premium version has custom team member with team detials like positions, "
+"social icon."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:152
+msgid ""
+"The premium Version has enhanced WooCommerce options like adding cart icon "
+"in the menu, product page settings, sidebar layout settings and more."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:130
+msgid ""
+"The premium version has the option to change the breadcrumb layout and "
+"options to change background image or background color and many more."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:138
+msgid ""
+"The premium version has the option to change the sidebar layout universally "
+"or change the sidebar for individual post/page. Moreover, it allows choosing "
+"the sidebar widgets for individual post/page."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:145
+msgid ""
+"The premium version has the option to change the website layout to be full "
+"width or boxed. Additionally, you can set the width of the website container."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:204
+msgid "The website shows good and runs smoothly in all major browsers."
+msgstr ""
+
+#: inc/starter-content/about.php:7
+msgctxt "Theme starter content"
+msgid "About"
+msgstr ""
+
+#: inc/starter-content/contact.php:7
+msgctxt "Theme starter content"
+msgid "Contact"
+msgstr ""
+
+#: inc/starter-content/home.php:30
+msgctxt "Theme starter content"
+msgid "Home FSE"
+msgstr ""
+
+#: inc/starter-content/pricing.php:7
+msgctxt "Theme starter content"
+msgid "Pricing"
+msgstr ""
+
+#: inc/starter-content/service.php:7
+msgctxt "Theme starter content"
+msgid "Service"
+msgstr ""
+
+#: patterns/work-progress.php:34
+msgid ""
+"This includes consulting multi-disciplinary consulting work with design and "
+"engineering, and our world branches giving full support for executing "
+"professional work."
+msgstr ""
+
+#: inc/elementor/widgets/blog.php:134
+msgid "Three Blog Posts"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:255 inc/elementor/widgets/service.php:186
+#: inc/elementor/widgets/testimonial.php:157
+#: inc/elementor/widgets/featured-service.php:138
+#: inc/elementor/widgets/blog.php:196
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:38
+msgid "Title"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:233 inc/elementor/widgets/service.php:215
+#: inc/elementor/widgets/portfolio.php:146 inc/elementor/widgets/blog.php:173
+#: inc/elementor/widgets/about.php:238 inc/elementor/widgets/client.php:172
+msgid "Title Color"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:214 inc/elementor/widgets/service.php:195
+#: inc/elementor/widgets/portfolio.php:127 inc/elementor/widgets/blog.php:154
+#: inc/elementor/widgets/about.php:218 inc/elementor/widgets/client.php:153
+msgid "Title Text Transform"
+msgstr ""
+
+#: patterns/call-to-action-2.php:17 patterns/call-to-action.php:16
+msgid "To Achieve Their Business Goal"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:150
+msgid "Top & Bottom Seprator with dynamic color"
+msgstr ""
+
+#: functions.php:73 inc/starter-content/init.php:353
+msgid "Top Menu"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:188
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:254 inc/elementor/widgets/service.php:185
+#: inc/elementor/widgets/testimonial.php:156
+#: inc/elementor/widgets/featured-service.php:137
+#: inc/elementor/widgets/blog.php:195
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:111
+msgid "Type"
+msgstr ""
+
+#: patterns/call-to-action.php:29
+msgid "ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:508
+msgid "Underline"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:58
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr ""
+
+#. 1-theme name
+#: inc/welcome/sections/header.php:28
+#, php-format
+msgid "Unlock all the possibilities with %1$s Pro"
+msgstr ""
+
+#: inc/welcome/sections/footer.php:7
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/welcome/sections/footer.php:3
+msgid "Upgrade To Premium Version (14 Days Money Back Guarantee)"
+msgstr ""
+
+#: inc/welcome/sections/header.php:31
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: inc/customizer/customizer-pro/class-customize.php:77
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:1226
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: inc/customizer/custom-controller.php:1313
+#: inc/welcome/sections/free_vs_pro.php:21
+#: inc/welcome/sections/free_vs_pro.php:240
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:22
+#: inc/welcome/sections/free_vs_pro.php:241
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: inc/widgets/widget-video.php:109
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/widgets/widget-clients.php:169
+msgid "Upload Client Image"
+msgstr ""
+
+#: inc/elementor/widgets/client.php:106
+msgid "Upload Client Image :"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:133 inc/widgets/widget-counter.php:144
+#: inc/widgets/widget-testimonial.php:146 inc/widgets/widget-clients.php:160
+#: inc/widgets/widget-clients.php:169 inc/widgets/widget-clients.php:228
+#: inc/customizer/group/class-control-group.php:220
+msgid "Upload Image"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:219 inc/elementor/widgets/service.php:200
+#: inc/elementor/widgets/portfolio.php:132 inc/elementor/widgets/blog.php:159
+#: inc/elementor/widgets/about.php:223 inc/elementor/widgets/client.php:158
+msgid "UPPERCASE"
+msgstr ""
+
+#: inc/customizer/group/class-control-group.php:499
+msgid "Uppercase"
+msgstr ""
+
+#: section/section-producttype.php:66
+#: inc/customizer/product-type-settings.php:68
+msgid "UpSell Product"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:9
+msgid "Use in as many websites as you need"
+msgstr ""
+
+#: patterns/call-to-action-2.php:26
+msgid ""
+"using any extra plugins.  Improved speed, web vitals score and SEO to get "
+"better positions"
+msgstr ""
+
+#: patterns/pricing.php:109
+msgid "Vertical Access Plan"
+msgstr ""
+
+#: inc/elementor/widgets/video-calltoaction.php:36
+#: inc/elementor/widgets/video-calltoaction.php:77
+msgid "Video Call To Action"
+msgstr ""
+
+#: inc/customizer/product-type-settings.php:102
+msgid "View"
+msgstr ""
+
+#: patterns/hero-section.php:28 patterns/section-title.php:30
+msgid "View More"
+msgstr ""
+
+#: inc/woocommerce.php:489
+msgid "View your shopping cart"
+msgstr ""
+
+#: patterns/about-us.php:28
+msgid "WE ARE ALWAYS FOCUSED ON"
+msgstr ""
+
+#: patterns/hero-section.php:13
+msgid "WE ARE CREATIVE"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:44
+msgid ""
+"We have our own theme setup steps, you just click on settings and next we do "
+"all process in background."
+msgstr ""
+
+#: patterns/call-to-action-2.php:13 patterns/call-to-action.php:12
+msgid "We Help Our Clients"
+msgstr ""
+
+#: patterns/quality-service.php:52
+msgid "We Realize Your Dream"
+msgstr ""
+
+#: patterns/call-to-action-video.php:26
+msgid ""
+"We understand that projects represent not only buildings but the plans for "
+"the future of our clients ed ut perspiciatis unde omnis iste natus error sit "
+"voluptatem accusantium doloremque laudantium, totam rem aperia"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:144
+msgid "Website Layout (Fullwidth or Boxed)"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/welcome/welcome.php:173
+msgid "Welcome"
+msgstr ""
+
+#. 1-theme name
+#: inc/welcome/sections/header.php:13
+#, php-format
+msgid ""
+"Welcome and thank you for installing theme. %1$s is a clean, beautiful and "
+"fully customizable responsive modern free construction WordPress theme. And "
+"of course, the premium version for additional features and better supports."
+msgstr ""
+
+#. 1-theme name, 2-theme version
+#: inc/welcome/sections/header.php:6
+#, php-format
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#: patterns/about-us.php:33
+msgid "Why Choose Us?"
+msgstr ""
+
+#: inc/widgets/widget-counter.php:43
+msgid "Widgeet Displays Success Business Awards Count"
+msgstr ""
+
+#: inc/widgets/widget-about.php:57
+msgid "Widget Displays About Us with some Details"
+msgstr ""
+
+#: inc/widgets/widget_calltoaction.php:46
+msgid "Widget Displays Business Promotion Area"
+msgstr ""
+
+#: inc/widgets/widget-clients.php:45
+msgid "Widget Displays Client Brand Logo"
+msgstr ""
+
+#: inc/widgets/widget-testimonial.php:43
+msgid "Widget Displays Customer Reviews"
+msgstr ""
+
+#: inc/widgets/widget-featured-service.php:38
+msgid "Widget Displays Featured Service Area"
+msgstr ""
+
+#: inc/widgets/widget-service.php:40
+msgid "Widget Displays Main Service Area"
+msgstr ""
+
+#: inc/widgets/widget-team.php:46
+msgid "Widget Displays Our Team Members"
+msgstr ""
+
+#: inc/widgets/widget-blog.php:23
+msgid "Widget Displays Selected Category Blog Posts"
+msgstr ""
+
+#: inc/widgets/widget-portfolio.php:22
+msgid "Widget Displays Success Portfolio"
+msgstr ""
+
+#: inc/widgets/widget-video.php:43
+msgid "Widget Displays Video Business Video"
+msgstr ""
+
+#: inc/welcome/sections/footer.php:4
+#, php-format
+msgid ""
+"With %s Pro theme you can create a beautiful website. But if you want to "
+"unlock more possibilities then upgrade to the premium version, Try the "
+"Premium version and check if it fits your need or not. If not, we have 14 "
+"days money-back guarantee."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:116
+msgid ""
+"With custom widget and Site origin page builder, you can play to create "
+"various website layout."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:36
+msgid ""
+"With one click demo-import, you can install the demo content with just one "
+"click."
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:151
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: inc/welcome/sections/free_vs_pro.php:158
+msgid "WooCommerce Section"
+msgstr ""
+
+#: patterns/work-progress.php:19
+msgid "WORK PROGRESS"
+msgstr ""
+
+#: inc/woocommerce.php:363
+msgid "write a preview"
+msgstr ""
+
+#: inc/breadcrumbs/breadcrumbs.php:788 inc/breadcrumbs/breadcrumbs.php:817
+#: inc/breadcrumbs/breadcrumbs.php:844 inc/breadcrumbs/breadcrumbs.php:871
+#: inc/breadcrumbs/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/pricing-settings.php:23
+#: inc/customizer/pricing-settings.php:99
+#: inc/customizer/product-type-settings.php:22
+#: inc/welcome/sections/free_vs_pro.php:168
+msgid "Yes"
+msgstr ""
+
+#: inc/welcome/sections/getting_started.php:5
+msgid ""
+"You can setup the home page sections either from Customizer Panel or from "
+"Elementor Pagebuilder"
+msgstr ""
